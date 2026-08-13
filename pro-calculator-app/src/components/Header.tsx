@@ -1,7 +1,8 @@
 import { Ionicons } from "@expo/vector-icons";
 import { useRouter } from "expo-router";
 import React from "react";
-import { StyleSheet, Text, TouchableOpacity, View } from "react";
+// ✅ Correct import source
+import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
 import { ColorPalette } from "../theme/colors";
 
 interface HeaderProps {
