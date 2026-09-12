@@ -103,6 +103,7 @@ The app provides both Standard and Scientific calculator modes with calculation 
 * **AsyncStorage**
 * **React Native StyleSheet**
 * **React Native Testing Library / Jest**
+* and deploy to the public
 
 No backend or database is required.
 
