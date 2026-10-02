@@ -21,6 +21,7 @@ The app provides both Standard and Scientific calculator modes with calculation 
 * Backspace
 * Clear
 * Mathematical operator precedence
+* hold history 
 
 ### 🔬 Scientific Calculator
 
